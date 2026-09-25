@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @hamzaabid016
-- 👀 I’m interested in AI, Machine Learning, and Computer Vision.
-- 🌱 I’m currently learning advanced AI techniques.
-- 💞️ I’m looking to collaborate on innovative AI projects.
-GitHub: [hamzaabid016](https://github.com/hamzaabid016)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love working on AI projects that solve real-world problems!
+## 👋 Welcome
 
-<!---
-hamzaabid016/hamzaabid016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m an **AI/ML Engineer & Full-Stack Developer** focused on building production-ready AI systems and intelligent automation.
+
+### 🚀 What I Work On
+
+* 🤖 AI Agents & Agentic Workflows
+* 🧠 LLMs, RAG & Vector Search
+* ⚙️ AI Automation & API Integrations
+* 👁️ Computer Vision & Machine Learning
+* 🐍 Python, FastAPI & Backend Systems
+* 🌐 React / Next.js & AI-powered SaaS
+* 🔗 n8n, MCP & Tool-Calling Systems
+
+### 💡 Current Focus
+
+Building AI systems that go beyond simple chatbots — agents that can **reason, retrieve knowledge, use tools, automate workflows, and perform real business actions**.
+
+### 🤝 Collaboration
+
+Open to collaborating on **AI, automation, SaaS, computer vision, and other technically challenging projects**.
